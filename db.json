@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": "4d6b",
+      "title": "11 This is the first news for the second task of this exercise",
+      "description": "We used html, css, java script and Jason Server"
+    },
+    {
+      "id": "3e7f",
+      "title": "22 This is the first news for the second task of this exercise",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos explicabo aspernatur, corrupti, veritatis, quisquam aut illo sapiente asperiores quod iure illum exercitationem laborum. Numquam temporibus repellendus saepe molestias mollitia illum?"
+    },
+    {
+      "id": "9495",
+      "title": "This is the first news for the second",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos explicabo aspernatur, corrupti, veritatis, quisquam aut illo sapiente asperiores quod iure illum exercitationem laborum. Numquam temporibus repellendus saepe molestias mollitia illum"
+    }
+  ]
+}
